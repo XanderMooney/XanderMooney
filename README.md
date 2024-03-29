@@ -1,16 +1,11 @@
-### Hi there 👋
+# Xander Mooney
 
-<!--
-**XanderMooney/XanderMooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I work in
+- C# since 9/17/19 
+- C++ since 12/4/22 
+- HTML/CSS since 1/11/23
+- JavaScript since 1/24/23
+- Java since 3/20/23 
+- Python since 1/4/24
+- SQLite since 1/27/24
+- React Native since 3/15/24
