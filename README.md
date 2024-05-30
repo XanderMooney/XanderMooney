@@ -11,3 +11,12 @@
 ![SQLite](https://cdn.iconscout.com/icon/free/png-512/free-sql-29-1127899.png?w=64)
 ![React Native](https://cdn.iconscout.com/icon/free/png-512/free-react-4-1175110.png?w=64)
 
+## I am Certified in
+- Java (2/15/2024)
+- Excel 2019 Expert (11/14/2023)
+
+## I have the following Awards
+- 1st Place BPA Virtual Software Engineering Team (2024)
+- 3rd Place BPA Virtual Software Engineering Team (2023)
+- Top 5 National C++ Competition (2023)
+- 1st Place Regional C++ Competition (2023 and 2024)
